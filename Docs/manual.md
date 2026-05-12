@@ -1,0 +1,34 @@
+\# CETERO-S Manual
+
+
+
+CETERO-S is a semiautomatic Python tool for the analysis of J–R resistance curves using the unloading compliance method in compact tension C(T) specimens.
+
+
+
+The software workflow includes:
+
+
+
+1\. Experimental data import
+
+2\. Detection of unloading cycles
+
+3\. Compliance candidate generation
+
+4\. Supervised compliance selection
+
+5\. Rotation correction
+
+6\. Crack growth estimation
+
+7\. J-integral calculation
+
+8\. J–R curve construction
+
+9\. ASTM E1820-inspired post-processing
+
+
+
+A complete user guide and methodological description will be added in future releases.
+
